@@ -120,16 +120,6 @@ what the specifications of the quota, the total amount of request made by contai
 
 ![grafana_namespace_details](assets/grafana_namespace_details.png)
 
-
- <hr/>
-<p align=center  style="background-color:#333333 !important;">
-  <a href="https://www.jetbrains.com/">
-  Developed with
-  <br/>
-  <img align="center" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" alt="drawing" width="100"/>
-  </a>
-</p>
-
 ## Versioning 
 
 Since version v1.24.0, we have decided to modify the naming of versions for ease of reading and understanding.
@@ -217,3 +207,14 @@ This section guides you through submitting an enhancement suggestion for kubi, *
 #### How Do I Submit a Good Enhancement Suggestion?
 
 To submit an enhancement suggestion, please propose a pull request (PR) and contact us for review.
+
+
+ <hr/>
+<p align=center  style="background-color:#333333 !important;">
+  <a href="https://www.jetbrains.com/">
+  Developed with
+  <br/>
+  <img align="center" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" alt="drawing" width="100"/>
+  </a>
+</p>
+
