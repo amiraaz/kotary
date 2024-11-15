@@ -129,7 +129,7 @@ kubectl apply -f https://raw.githubusercontent.com/ca-gip/kotary/master/artifact
 
 # Contributing
 
-- [Contributing to kubi](https://github.com/ca-gip/kotary/blob/master/CONTRIBUTING.md).
+- [Contributing to kotary](https://github.com/ca-gip/kotary/blob/master/CONTRIBUTING.md).
  
 
  <hr/>
